@@ -292,7 +292,7 @@ class ProfessionalHttpTrafficGenerator(QMainWindow):
         self.applyDarkTheme()
 
     def initUI(self):
-        self.setWindowTitle('🔍 专业HTTP流量包生成器 - 多请求文件支持版 技术支持-张菩嘉')
+        self.setWindowTitle('🔍 专业HTTP流量包生成器 - 多请求文件支持版 技术支持-rockmelodies')
         self.setGeometry(100, 100, 1800, 1200)
 
         # 中央部件
